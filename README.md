@@ -71,8 +71,6 @@ Before you begin, ensure you have met the following requirements:
 
    Replace `YOUR_CAT_API_KEY_HERE` with the API key you received from The Cat API.
 
-   Important: Add `conf/app.conf` to your `.gitignore` file to prevent committing sensitive information.
-
 Note: The React project has already been built and integrated into the Beego project structure. The built files like JS and CSS are located in the `static` folder, and the `index.html` has been renamed to `index.tpl` in the `views` folder.
 
 ## Generating an API Key
