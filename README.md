@@ -63,7 +63,7 @@ Before you begin, ensure you have met the following requirements:
 
    ```
    appname = catApi
-   httpport = 8080
+   httpport = PORT ADDRESS
    runmode = dev
    StaticDir = static:static
    cat_api_key = YOUR_CAT_API_KEY_HERE
